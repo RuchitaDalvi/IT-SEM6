@@ -25,8 +25,6 @@ The traditional book-selling process lacks a digital platform, making it challen
 5. [Installation](#installation)
 6. [Usage](#usage)
 7. [Features](#features)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/online-book-app.git`
@@ -43,8 +41,3 @@ The traditional book-selling process lacks a digital platform, making it challen
 - Shopping cart functionality
 - Order history tracking
 
-## Contributing
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-This project is licensed under the [MIT License](LICENSE).
