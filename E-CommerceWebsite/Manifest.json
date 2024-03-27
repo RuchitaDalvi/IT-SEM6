@@ -1,0 +1,21 @@
+{
+    "name": "E-Commerce Slider",
+    "short_name": "Slider",
+    "icons": [
+      {
+        "src": "/img/img1.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/img2.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/slider.html",
+    "display": "standalone",
+    "theme_color": "#007bff",
+    "background_color": "#ffffff"
+  }
+  
